@@ -1,4 +1,4 @@
-import {forwardRef} from "react";
+import React, {forwardRef} from "react";
 
 import {cn} from "@/lib/utils";
 
@@ -30,7 +30,9 @@ const Button = forwardRef<HTMLButtonElement, ButtonProps>(({
             transition
             `,
                 className)}
-            ref={ref}>
+            ref={ref}
+            {...props}
+        >
             {children}
         </button>
     );
