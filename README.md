@@ -1,7 +1,7 @@
 # E-commerce (Store)
 Developed by Dmytro Lytvynenko (с) 2023
 
-[Link to website](https://e-commerce-admin-git-main-dimativ.vercel.app/sign-in?redirect_url=https%3A%2F%2Fe-commerce-admin-git-main-dimativ.vercel.app%2F)
+[Link to website](https://e-commerce-store-three-mu.vercel.app/)
 
 This repository contains a program which copy the store functionality. Users can pick colors, sizes and categories of the products and even buy it (this is in a test mode, and to try it just enter random values to all fields).
 ## Navigation through document
